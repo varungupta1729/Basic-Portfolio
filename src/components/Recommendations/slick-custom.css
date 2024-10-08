@@ -1,0 +1,28 @@
+.slick-dots {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  display: block;
+  margin-left: 9.1rem;
+  margin-top: 1.2rem;
+}
+@media screen and (max-width: 648px) {
+  .slick-dots {
+    margin: auto !important;
+  }
+}
+.slick-dots li {
+  margin: 0 0px;
+}
+.slick-dots li button:before {
+  font-size: 10px;
+  color: #ffb400;
+}
+.slick-dots li button::after {
+  font-size: 10px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #ffb400;
+}

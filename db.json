@@ -1,0 +1,246 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "How To Make Flyer Design",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd Lorem Ipsum...",
+      "tags": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "How To Make Flyer Design",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd Lorem Ipsum...",
+      "tags": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "How To Make Flyer Design",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd Lorem Ipsum...",
+      "tags": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "How To Make Flyer Design",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd Lorem Ipsum...",
+      "tags": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "How To Make Flyer Design",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd Lorem Ipsum...",
+      "tags": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "How To Make Flyer Design",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd Lorem Ipsum...",
+      "tags": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Front End Development",
+      "skills": [
+        {
+          "name": "Html",
+          "percentage": "90"
+        },
+        {
+          "name": "CSS",
+          "percentage": "85"
+        },
+        {
+          "name": "Js",
+          "percentage": "80"
+        },
+        {
+          "name": "PHP",
+          "percentage": "75"
+        },
+        {
+          "name": "WordPress",
+          "percentage": "85"
+        }
+      ],
+      "id": "18e4"
+    },
+    {
+      "category": "Languages",
+      "skills": [
+        {
+          "name": "Hindi",
+          "percentage": "90"
+        },
+        {
+          "name": "English",
+          "percentage": "85"
+        }
+      ],
+      "id": "4f17"
+    },
+    {
+      "category": "Back End Development",
+      "skills": [
+        {
+          "name": "NodeJS",
+          "percentage": "90"
+        },
+        {
+          "name": "SSR",
+          "percentage": "85"
+        }
+      ],
+      "id": "0818"
+    },
+    {
+      "category": "Front End Development",
+      "skills": [
+        {
+          "name": "Html",
+          "percentage": "90"
+        },
+        {
+          "name": "CSS",
+          "percentage": "85"
+        },
+        {
+          "name": "Js",
+          "percentage": "80"
+        },
+        {
+          "name": "PHP",
+          "percentage": "75"
+        },
+        {
+          "name": "WordPress",
+          "percentage": "85"
+        }
+      ],
+      "id": "18e4"
+    },
+    {
+      "category": "Languages",
+      "skills": [
+        {
+          "name": "Hindi",
+          "percentage": "90"
+        },
+        {
+          "name": "English",
+          "percentage": "85"
+        }
+      ],
+      "id": "4f17"
+    },
+    {
+      "category": "Back End Development",
+      "skills": [
+        {
+          "name": "NodeJS",
+          "percentage": "90"
+        },
+        {
+          "name": "SSR",
+          "percentage": "85"
+        }
+      ],
+      "id": "0818"
+    }
+  ],
+  "recommendations": [
+    {
+      "name": "James Gouse",
+      "profile": "Graphic Designer",
+      "rating": 5,
+      "comment": "Great Quality!",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit. Vitae Nulla Diam In Ac Dictum A Urna Viverra Morbi. Morbi Donec Amet.",
+      "id": "f1c9",
+      "imageUrl": "./images/Profile3.png"
+    },
+    {
+      "name": "Tiana Philips",
+      "profile": "Photographer",
+      "rating": 5,
+      "comment": "Amazing Work!",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit. Vitae Nulla Diam In Ac Dictum A Urna Viverra Morbi. Morbi Donec Amet.",
+      "id": "6ca0",
+      "imageUrl": "./images/Profile1.png"
+    },
+    {
+      "name": "Talan Westervelt",
+      "profile": "Business Man",
+      "rating": 5,
+      "comment": "Great Quality!",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit. Vitae Nulla Diam In Ac Dictum A Urna Viverra Morbi. Morbi Donec Amet.",
+      "id": "7a40",
+      "imageUrl": "./images/Profile2.png"
+    },
+    {
+      "name": "Alice Johnson",
+      "profile": "Web Developer",
+      "rating": 4,
+      "comment": "Very Professional!",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit. Vitae Nulla Diam In Ac Dictum A Urna Viverra Morbi. Morbi Donec Amet.",
+      "id": "a8a2",
+      "imageUrl": "./images/Profile1.png"
+    },
+    {
+      "name": "Bob Smith",
+      "profile": "Project Manager",
+      "rating": 5,
+      "comment": "Excellent Service!",
+      "description": "Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit. Vitae Nulla Diam In Ac Dictum A Urna Viverra Morbi. Morbi Donec Amet.",
+      "id": "3a51",
+      "imageUrl": "./images/Profile2.png"
+    }
+  ],
+  "forms": [
+    {
+      "id": "82c7",
+      "name": "Varun",
+      "email": "varun.2125cse1032@kiet.edu",
+      "subject": "",
+      "message": ""
+    }
+  ]
+}
